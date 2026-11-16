@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ravi Ranjan
 
-<!--
-**ismraviranjan-netizen/ismraviranjan-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Lead, Digital Supply Chain at Tata Consultancy Services** | New Delhi, India
 
-Here are some ideas to get you started:
+I build agentic AI for supply chains: agents that sense demand, rebalance inventory and find root causes, with a human approving every action.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+| Area | Details |
+|---|---|
+| Agentic AI | Multi-agent orchestration, tool use (MCP), RAG, evals, guardrails, human-in-the-loop design |
+| Build and cloud | Claude API, Claude Code, Python, SQL, AWS Bedrock, Lambda, Terraform, Streamlit |
+| Domain | Supply chain control towers, demand sensing, inventory rebalancing, logistics analytics |
+
+## Featured projects
+
+| Project | What it does |
+|---|---|
+| [lifebridge-ai](https://github.com/ismraviranjan-netizen/lifebridge-ai) | Crisis decision-support demo for essential-supply disruptions. Turns a notice into a structured assessment and compares recovery plans under human control. [Live demo](https://lifebridge-ai-sable.vercel.app) |
+| [disruption_agent](https://github.com/ismraviranjan-netizen/disruption_agent) | Tool-calling agent that detects stockout risk across a 4-warehouse pharma network and rebalances inventory, explaining each decision. |
+| [reorder-app](https://github.com/ismraviranjan-netizen/reorder-app) | LangGraph agent that checks inventory and proposes reorders, pausing for human approval before any purchase order. |
+
+## Certifications
+
+| Certification | Year |
+|---|---|
+| Claude Certified Architect – Professional | 2026 |
+| Claude Certified Architect – Foundations | 2026 |
+| Claude Certified Developer & Associate | 2026 |
+| Kinaxis SC Specialist | 2025 |
+| AI & Gen AI in SCM (ISCEA) | 2025 |
+
+## Background
+
+MBA, IIM Mumbai | B.Tech and M.Tech, IIT (ISM) Dhanbad
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ravi-ranjan-968151193/)
