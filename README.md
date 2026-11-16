@@ -16,6 +16,7 @@ I build agentic AI for supply chains: agents that sense demand, rebalance invent
 
 | Project | What it does |
 |---|---|
+| [gfb-foundry](https://github.com/ismraviranjan-netizen/gfb-foundry) | The Agent Foundry: root cause, inventory rebalancing and demand sensing agents under a control tower, on Claude + Amazon Bedrock. 354 tests, eval gates in CI, kill switch, human approval and spend cap, Terraform deploy. |
 | [lifebridge-ai](https://github.com/ismraviranjan-netizen/lifebridge-ai) | Crisis decision-support demo for essential-supply disruptions. Turns a notice into a structured assessment and compares recovery plans under human control. [Live demo](https://lifebridge-ai-sable.vercel.app) |
 | [disruption_agent](https://github.com/ismraviranjan-netizen/disruption_agent) | Tool-calling agent that detects stockout risk across a 4-warehouse pharma network and rebalances inventory, explaining each decision. |
 | [reorder-app](https://github.com/ismraviranjan-netizen/reorder-app) | LangGraph agent that checks inventory and proposes reorders, pausing for human approval before any purchase order. |
