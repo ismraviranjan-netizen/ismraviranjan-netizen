@@ -2,6 +2,12 @@
 
 **AI Lead, Digital Supply Chain at Tata Consultancy Services** | New Delhi, India
 
+![Claude Certified Architect – Professional](https://img.shields.io/badge/Claude_Certified_Architect-Professional-D97757)
+![Claude Certified Architect – Foundations](https://img.shields.io/badge/Claude_Certified_Architect-Foundations-D97757)
+![Claude Certified Developer & Associate](https://img.shields.io/badge/Claude_Certified-Developer_%26_Associate-D97757)
+![Kinaxis SC Specialist](https://img.shields.io/badge/Kinaxis-SC_Specialist-0A66C2)
+[![gfb-foundry evals](https://github.com/ismraviranjan-netizen/gfb-foundry/actions/workflows/evals.yml/badge.svg)](https://github.com/ismraviranjan-netizen/gfb-foundry/actions/workflows/evals.yml)
+
 I build agentic AI for supply chains: agents that sense demand, rebalance inventory and find root causes, with a human approving every action.
 
 ## What I work on
